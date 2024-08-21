@@ -1,4 +1,4 @@
-print('Bem vindo a Loja do Ricardo Rufino')
+print('Bem vindo a Loja do Ricardo José Rufino Júnior')
 
 # Capturando o valor do pedido
 valorDoPedido = float(input("Entre com o valor do pedido: "))
