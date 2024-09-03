@@ -1,6 +1,6 @@
 print('----- Bem-vindo à loja de marmitas do Ricardo José Rufino Júnior -----')
 print('---------------------------- Cardápio --------------------------------')
-print('--------| Tamanho | Bife Acebolado (BA) | Filé de Frango (FF) | -------')
+print('--------| Tamanho | Bife Acebolado (BA)| Filé de Frango (FF) | -------')
 print('--------|    P    |      R$ 16.00      |       R$ 15.00      | -------')
 print('--------|    M    |      R$ 18.00      |       R$ 17.00      | -------')
 print('--------|    G    |      R$ 22.00      |       R$ 21.00      | -------')
